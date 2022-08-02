@@ -1,7 +1,7 @@
-# TUGAS WP TI|6B
+Tugas 
 
-- Fanny Susanto Putra Tama --> 17190066
-- Fajar Firdaus            --> 17190008
-- M. Hapid Amruloh         --> 17190117
-- Dwi Robiansyah           --> 17190021
-# Repository-Baru
+- Deni Mulyana            :17190044
+- Zidhan Nurzaman         :17190110
+- Isnain Indri Adyawati   :17190024
+- Yusuf Abdul Aziz        :17190098 
+- M.Nirwan Mahardiana     :17190037
